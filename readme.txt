@@ -1,5 +1,6 @@
 Information:
 
+Built on SUI with MOVE. This is an contract.
 module -> calculator_base
 digest -> 9VpNV6xBpAEfYwxRpJP867TikrjN8Cth44HCqzsFPdZJ
 params -> (u64) a, (u64) b
